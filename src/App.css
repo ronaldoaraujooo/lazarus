@@ -734,8 +734,8 @@ body {
     flex-shrink: 0;
   }
 
-  .nav-link button{
-    display: block;
+  .nav-menu button{
+    display: none;
   }
   
   .nav-whatsapp {
@@ -869,7 +869,7 @@ body {
 /* Para telas muito pequenas (menos de 360px) */
 @media (max-width: 360px) {
   .nav-menu {
-    gap: 0.5rem;
+    gap: 0.1rem;
   }
   
   .nav-link {
@@ -877,8 +877,8 @@ body {
     padding: 0.3rem;
   }
 
-  .nav-link button{
-    display: block;
+  .nav-menu button{
+    display: none;
   }
   
   .nav-whatsapp {
