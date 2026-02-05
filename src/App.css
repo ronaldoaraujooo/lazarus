@@ -733,6 +733,10 @@ body {
     white-space: nowrap;
     flex-shrink: 0;
   }
+
+  .nav-link button{
+    display: block;
+  }
   
   .nav-whatsapp {
     padding: 0.5rem 0.8rem;
@@ -871,6 +875,10 @@ body {
   .nav-link {
     font-size: 0.7rem;
     padding: 0.3rem;
+  }
+
+  .nav-link button{
+    display: block;
   }
   
   .nav-whatsapp {
