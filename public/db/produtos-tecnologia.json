@@ -1,0 +1,70 @@
+{
+  "categoria": "tecnologia",
+  "titulo": "Soluções Tecnológicas",
+  "descricao": "Ferramentas digitais para otimizar qualquer tipo de negócio",
+  "produtos": [
+    {
+      "id": "tech-001",
+      "nome": "Lazarus CMS – Plano Básico",
+      "slug": "lazarus-cms-basico",
+      "descricao": "Sistema de agendamentos, controle de clientes e painel administrativo",
+      "descricaoDetalhada": "Sistema completo de gestão para pequenos negócios. Inclui: agendamento online, cadastro de clientes, histórico de atendimentos, painel administrativo intuitivo, relatórios básicos. Ideal para quem está começando a digitalizar o negócio.",
+      "preco": "R$ 97/mês",
+      "imagem": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/tecnologia/lazarus-cms-basico",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20o%20Lazarus%20CMS%20%E2%80%93%20Plano%20Básico",
+      "recursos": [
+        "Painel administrativo",
+        "Controle de clientes",
+        "Agendamento online",
+        "Histórico completo",
+        "Relatórios básicos"
+      ],
+      "icone": "FaCalendarAlt",
+      "cor": "#34495e"
+    },
+    {
+      "id": "tech-002",
+      "nome": "Lazarus CMS – Plano Premium",
+      "slug": "lazarus-cms-premium",
+      "descricao": "CMS completo + chatbot WhatsApp + página inicial personalizada",
+      "descricaoDetalhada": "Solução completa para automatização de negócios. Inclui tudo do plano básico + chatbot para WhatsApp, página personalizada, integração com redes sociais, sistema de marketing automático e suporte prioritário.",
+      "preco": "R$ 147/mês",
+      "imagem": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=600&q=80",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/tecnologia/lazarus-cms-premium",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20o%20Lazarus%20CMS%20%E2%80%93%20Plano%20Premium",
+      "recursos": [
+        "Chatbot WhatsApp",
+        "Página personalizada",
+        "Marketing automático",
+        "Integração redes sociais",
+        "Suporte prioritário"
+      ],
+      "icone": "FaRobot",
+      "cor": "#1abc9c"
+    },
+    {
+      "id": "tech-003",
+      "nome": "Licença Completa do Lazarus",
+      "slug": "licenca-completa-lazarus",
+      "descricao": "Compra definitiva do sistema para uso próprio",
+      "descricaoDetalhada": "Adquira a licença completa do sistema Lazarus. Você recebe: código-fonte completo, direito de uso perpétuo, hospedagem inclusa por 1 ano, suporte básico por 6 meses. Ideal para quem não quer mensalidades.",
+      "preco": "R$ 2.997",
+      "imagem": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=600&q=80",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/tecnologia/licenca-completa-lazarus",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20a%20Licença%20Completa%20do%20Lazarus",
+      "recursos": [
+        "Código-fonte completo",
+        "Uso perpétuo",
+        "Hospedagem 1 ano",
+        "Suporte 6 meses",
+        "Sem mensalidades"
+      ],
+      "icone": "FaBuilding",
+      "cor": "#34495e"
+    }
+  ]
+}

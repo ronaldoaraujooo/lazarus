@@ -1,0 +1,131 @@
+{
+  "categoria": "barbearia",
+  "titulo": "Soluções para Barbearias",
+  "descricao": "Sistemas completos para automatizar, profissionalizar e escalar sua barbearia.",
+  "produtos": [
+    {
+      "id": "barber-001",
+      "nome": "Modelo 1 Lazarus Barbearia",
+      "slug": "site-estatico-barbearia",
+      "descricao": "Site estático profissional com redirecionamento automático para o WhatsApp usando mensagens pré-definidas.",
+      "descricaoDetalhada": "O Modelo 1 é ideal para barbearias que desejam uma presença digital rápida, moderna e funcional. O site apresenta um design profissional, responsivo e otimizado para celulares, garantindo que qualquer cliente consiga navegar com facilidade. Ele inclui galeria de cortes, informações da barbearia, horário de funcionamento, localização e botões de contato estrategicamente posicionados.\n\n**Fluxo de funcionamento (exemplo visual):**\n1. O cliente acessa o site da barbearia.\n2. Ele navega pela galeria de cortes, lê sobre os serviços e encontra o botão de contato.\n3. Ao clicar em “Agendar pelo WhatsApp”, o cliente é automaticamente redirecionado para o WhatsApp do barbeiro.\n4. A mensagem já chega pronta, por exemplo: *“Olá! Gostaria de saber mais sobre os serviços da barbearia.”*\n\nEsse fluxo reduz atrito, facilita o primeiro contato e aumenta a conversão de visitantes em clientes. O foco deste modelo é **atrair clientes e facilitar o contato imediato**, sem necessidade de sistemas complexos.",
+      "preco": "R$ 100,00 (único)",
+      "imagem": "https://copilot.microsoft.com/th/id/BCO.c12c99a6-7cca-4bc6-967f-b9c7d77b00ec.png",
+      "demoUrl": "https://lazarus-barbearia-modelo.vercel.app/",
+      "detalhesUrl": "/produto/barbearia/site-estatico-barbearia",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20o%20Site%20Estático%20Lazarus%20Barbearia",
+      "recursos": [
+        "Design responsivo",
+        "Galeria de cortes",
+        "WhatsApp direto",
+        "Otimização para celular",
+        "Domínio personalizado"
+      ],
+      "icone": "FaCut",
+      "cor": "#34495e"
+    },
+    {
+      "id": "barber-002",
+      "nome": "Modelo 2 Lazarus Barbearia",
+      "slug": "sistema-agendamento-basico",
+      "descricao": "Site completo com fluxo de agendamento interno e envio automático dos dados para o WhatsApp.",
+      "descricaoDetalhada": "O Modelo 2 evolui o Modelo 1 ao adicionar um sistema de agendamento interno totalmente integrado ao site. Agora, o cliente não apenas entra em contato, mas já escolhe o serviço, a data e o horário antes mesmo de falar com o barbeiro.\n\n**Fluxo de funcionamento (exemplo visual):**\n1. O cliente acessa o site.\n2. Ele clica em “Agendar agora”.\n3. O site exibe um formulário simples e intuitivo.\n4. O cliente escolhe:\n   - Serviço (ex.: Corte, Barba, Sobrancelha)\n   - Data\n   - Horário\n   - Forma de pagamento\n5. Após confirmar, o sistema automaticamente envia todas as informações para o WhatsApp da barbearia.\n6. O barbeiro recebe uma mensagem completa, por exemplo:\n   *“Novo agendamento: Corte masculino — 15/02 às 14h — Pagamento: Pix — Cliente: João Silva.”*\n\nEsse fluxo reduz drasticamente o tempo gasto respondendo perguntas repetitivas e entrega o cliente **pronto para ser atendido**, com todas as informações organizadas.",
+      "preco": "R$ 159,00 (único)",
+      "imagem": "https://copilot.microsoft.com/th/id/BCO.f36d71da-0ac7-432b-b1ef-a16dc0cff20a.png",
+      "demoUrl": "https://lazarusmodelo3.vercel.app/",
+      "detalhesUrl": "/produto/barbearia/sistema-agendamento-basico",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20o%20Sistema%20de%20Agendamento%20Básico",
+      "recursos": [
+        "Formulário de agendamento",
+        "Seleção de serviços",
+        "Calendário integrado",
+        "Envio automático WhatsApp",
+        "Confirmação automática"
+      ],
+      "icone": "FaCalendarAlt",
+      "cor": "#1abc9c"
+    },
+    {
+      "id": "barber-003",
+      "nome": "Modelo 3 Lazarus Barbearia",
+      "slug": "painel-controle-inteligente",
+      "descricao": "Sistema avançado com painel administrativo completo para gestão da barbearia.",
+      "descricaoDetalhada": "O Modelo 3 é uma solução completa para barbearias que desejam controle total da operação. Ele inclui tudo do Modelo 2, mas adiciona um painel administrativo inteligente que centraliza todas as informações.\n\n**Fluxo de funcionamento (exemplo visual):**\n1. O cliente agenda pelo site normalmente (como no Modelo 2).\n2. O agendamento é salvo automaticamente no painel administrativo.\n3. O barbeiro acessa o painel e pode:\n   - Ver todos os agendamentos do dia.\n   - Editar horários.\n   - Alterar status (Confirmado, Em andamento, Concluído, Cancelado).\n   - Cadastrar novos serviços.\n   - Adicionar modelos de corte com fotos.\n   - Ver relatório de lucros baseado em atendimentos concluídos.\n   - Ver relatório de perdas baseado em cancelamentos.\n\nEsse sistema transforma a barbearia em uma operação organizada, com dados reais para tomada de decisão. O foco é **gestão, organização e profissionalização**.",
+      "preco": "R$ 97/mês",
+      "imagem": "https://copilot.microsoft.com/th/id/BCO.3a94dabe-5b4f-44f5-81aa-9be155388486.png",
+      "demoUrl": "https://lazaruzmodelo2.vercel.app/",
+      "detalhesUrl": "/produto/barbearia/painel-controle-inteligente",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20o%20Painel%20de%20Controle%20Inteligente",
+      "recursos": [
+        "Painel administrativo completo",
+        "Controle de agendamentos",
+        "Cálculo de lucros",
+        "Relatórios detalhados",
+        "Cadastro de serviços",
+        "Leitura de status"
+      ],
+      "icone": "FaBuilding",
+      "cor": "#e74c3c"
+    },
+    {
+      "id": "barber-004",
+      "nome": "Modelo 4 Lazarus Barbearia",
+      "slug": "automacao-chatbot-barbearia",
+      "descricao": "Sistema premium com automação total via chatbot inteligente no WhatsApp.",
+      "descricaoDetalhada": "O Modelo 4 é a solução mais completa da linha Lazarus. Ele inclui tudo do Modelo 3, mas adiciona um chatbot inteligente que automatiza completamente o atendimento no WhatsApp.\n\n**Fluxo de funcionamento (exemplo visual):**\n1. O cliente acessa o site e agenda normalmente.\n2. O sistema envia o agendamento para o WhatsApp.\n3. O chatbot assume o atendimento automaticamente.\n4. O bot envia mensagens como:\n   - *“Olá! Recebi seu agendamento. Deseja confirmar?”*\n   - *“Aqui estão nossos modelos de corte.”*\n   - *“Seu horário está chegando, não esqueça!”*\n5. O bot responde dúvidas, envia lembretes, faz follow-up e mantém o cliente engajado.\n6. O barbeiro só precisa aparecer para cortar — o bot cuida do resto.\n\nO foco deste modelo é **automação total**, reduzindo trabalho manual e aumentando conversão com atendimento 24/7.",
+      "preco": "R$ 197/mês",
+      "imagem": "https://copilot.microsoft.com/th/id/BCO.0b620d62-b236-4fe1-ba79-0b5eab075ec1.png",
+      "demoUrl": "https://lazaruzmodelo2.vercel.app/",
+      "detalhesUrl": "/produto/barbearia/automacao-chatbot-barbearia",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20a%20Automação%20Total%20com%20Chatbot",
+      "recursos": [
+        "Chatbot inteligente WhatsApp",
+        "Agendamento automático",
+        "Respostas inteligentes 24/7",
+        "Processamento de pagamentos",
+        "CRM integrado",
+        "Análise de conversões"
+      ],
+      "icone": "FaRobot",
+      "cor": "#2ecc71"
+    },
+    {
+      "id": "barber-006",
+      "nome": "Menu de Links para Bio",
+      "slug": "menu-links-bio",
+      "descricao": "Página estática com botões personalizados para redes sociais e contatos.",
+      "descricaoDetalhada": "O Menu de Links para Bio é uma solução simples, elegante e extremamente útil para barbearias que desejam organizar seus links em um único lugar. Ideal para colocar na bio do Instagram, ele funciona como um mini-site com botões que direcionam o cliente para suas principais redes e canais de contato.\n\n**Fluxo de funcionamento (exemplo visual):**\n1. O cliente acessa o link da bio da barbearia.\n2. Ele vê uma página limpa, com o logo da barbearia e botões como:\n   - Instagram\n   - Facebook\n   - WhatsApp\n   - YouTube\n   - Site principal\n3. Ao clicar em qualquer botão, o cliente é redirecionado imediatamente para o canal escolhido.\n\nO foco deste modelo é **centralizar todos os links importantes em um único lugar**, facilitando o acesso e aumentando a conversão de visitantes em seguidores e clientes.",
+      "preco": "R$ 50,00 (único)",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRzh8h5a29ussOpwnlX9lxKA2pLywS2CV1w&s",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/barbearia/menu-links-bio",
+      "compraUrl": "https://wa.me/5582996878817?text=Tenho%20interesse%20no%20Menu%20de%20Links%20para%20Bio",
+      "recursos": [
+        "Página única",
+        "Botões personalizados",
+        "Ideal para Instagram",
+        "Design minimalista",
+        "Links ilimitados"
+      ],
+      "icone": "FaLink",
+      "cor": "#8e44ad"
+    },
+    {
+      "id": "barber-005",
+      "nome": "Sistema Personalizado",
+      "slug": "personalização-flexbilidade",
+      "descricao": "Desenvolvimento de sistema exclusivo, criado sob medida para sua barbearia.",
+      "descricaoDetalhada": "O sistema personalizado é ideal para barbearias que desejam algo totalmente único. Criamos um sistema do zero, com identidade visual própria e funcionalidades específicas para sua necessidade.\n\n**Fluxo de funcionamento (exemplo visual):**\n1. Você explica sua ideia e necessidades.\n2. Criamos o layout, funcionalidades e fluxo do sistema.\n3. Você aprova e acompanhamos o desenvolvimento.\n4. Após a entrega, você recebe suporte por 30 dias para garantir que tudo funcione perfeitamente.\n\nO foco é **flexibilidade total**, criando exatamente o que você imagina.",
+      "preco": "Sob consulta",
+      "imagem": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=600&q=80",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/barbearia/personalização-flexbilidade",
+      "compraUrl": "https://wa.me/5582996878817?text=Tenho%20interesse%20em%20um%20Sistema%20Personalizado",
+      "recursos": [
+        "Solução sob medida"
+      ],
+      "icone": "FaRobot",
+      "cor": "#2ecc71"
+    }
+  ]
+}

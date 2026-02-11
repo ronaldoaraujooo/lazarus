@@ -1,0 +1,70 @@
+{
+  "categoria": "consultoria",
+  "titulo": "Consultoria & Serviços",
+  "descricao": "Consultoria especializada e serviços personalizados",
+  "produtos": [
+    {
+      "id": "consult-001",
+      "nome": "Consultoria Digital para Barbearias",
+      "slug": "consultoria-digital-barbearias",
+      "descricao": "Análise completa do posicionamento digital e estratégias de marketing",
+      "descricaoDetalhada": "Consultoria especializada para barbearias. Fazemos análise completa do seu negócio, desenvolvemos estratégia digital personalizada, planejamento de marketing, automação de processos e treinamento da equipe. Resultados garantidos!",
+      "preco": "R$ 197 (único)",
+      "imagem": "https://images.unsplash.com/photo-1551836022-4c4c79ecde51?auto=format&fit=crop&w=600&q=80",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/consultoria/consultoria-digital-barbearias",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20a%20Consultoria%20Digital%20para%20Barbearias",
+      "recursos": [
+        "Análise completa do negócio",
+        "Estratégia digital personalizada",
+        "Plano de marketing",
+        "Automação de processos",
+        "Treinamento da equipe"
+      ],
+      "icone": "FaBuilding",
+      "cor": "#34495e"
+    },
+    {
+      "id": "consult-002",
+      "nome": "Site Profissional Personalizado",
+      "slug": "site-profissional-personalizado",
+      "descricao": "Site completo com portfólio, depoimentos, SEO e integração",
+      "descricaoDetalhada": "Desenvolvimento de site profissional totalmente personalizado. Inclui: design exclusivo, portfólio interativo, sistema de depoimentos, otimização SEO, integração com Google Maps, análise de métricas, suporte por 3 meses.",
+      "preco": "Sob consulta",
+      "imagem": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&w=600&q=80",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/consultoria/site-profissional-personalizado",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20saber%20mais%20sobre%20Site%20Profissional%20Personalizado",
+      "recursos": [
+        "Design exclusivo",
+        "Portfólio interativo",
+        "Otimização SEO",
+        "Integração Google Maps",
+        "Suporte 3 meses"
+      ],
+      "icone": "FaCut",
+      "cor": "#34495e"
+    },
+    {
+      "id": "consult-003",
+      "nome": "Landing Page de Alta Conversão",
+      "slug": "landing-page-alta-conversao",
+      "descricao": "Página única otimizada para campanhas de tráfego pago",
+      "descricaoDetalhada": "Landing page profissional desenvolvida para maximizar conversões. Ideal para campanhas de Facebook Ads, Google Ads ou Instagram. Inclui: copywriting persuasivo, design otimizado, formulário inteligente, integração com CRM, análise A/B.",
+      "preco": "R$ 249",
+      "imagem": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
+      "demoUrl": "",
+      "detalhesUrl": "/produto/consultoria/landing-page-alta-conversao",
+      "compraUrl": "https://wa.me/5582996878817?text=Gostaria%20de%20comprar%20uma%20Landing%20Page%20de%20Alta%20Conversão",
+      "recursos": [
+        "Copywriting persuasivo",
+        "Design otimizado conversão",
+        "Formulário inteligente",
+        "Integração CRM",
+        "Análise A/B incluída"
+      ],
+      "icone": "FaLink",
+      "cor": "#34495e"
+    }
+  ]
+}
