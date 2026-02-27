@@ -10,7 +10,6 @@ import {
   FaRobot, 
   FaCode,
   FaEye,
-  FaShoppingCart,
   FaInfoCircle,
   FaCogs,
   FaServer,
