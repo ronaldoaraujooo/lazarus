@@ -563,7 +563,7 @@ function Home() {
                                 className={style['produto-botao']}
                                 onClick={() => handleComprar(produto.compraUrl)}
                               >
-                                <FaShoppingCart /> Adicionar
+                                 Falar no whasapp
                               </button>
                             </div>
                           </div>
